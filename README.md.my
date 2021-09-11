@@ -1,0 +1,17 @@
+# phase2 Learner's Academy 
+
+## Introduction
+ This is a j2ee/hibernate/java based portal for implementing learner's academy 
+ It allows administrator, teacher and student login and let them perform various actions
+## Roles
+  Administrator can 
+     - login
+     - CRUD Courses
+     - CRUD Teacher
+     - CRUD Student
+  Teacher can
+     - login
+     - view classes
+  Student can
+     - login
+     - view classes
