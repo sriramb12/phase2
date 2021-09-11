@@ -15,7 +15,7 @@
   int year =  Calendar.getInstance().get(Calendar.YEAR);
 %>
 <footer>
-    <div class="copyright"> &copy; <%=year%> Mohd Kaif. </div> 
+    <div class="copyright"> &copy; <%=year%> Sriram B. </div> 
 </footer>
 
 </body>
